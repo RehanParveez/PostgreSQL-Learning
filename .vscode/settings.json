@@ -6,10 +6,10 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
+            "database": "postgres_practice",
             "username": "postgres",
-            "database": "postgresql practice",
             "name": "practice_local",
-            "group": "local"
+            "connectionTimeout": 40
         }
     ]
 }
